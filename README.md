@@ -1,2 +1,3 @@
 # bialas.fun
-my bio page
+this is my bio page
+you can check it out https://bialas.fun
